@@ -16,11 +16,16 @@ https://api.giphy.com/v1/gifs/search?api_key=${API_KEY}&q=${question}&limit=${nu
 
 ## User Stories
 
-As a studenty
-I will search for gifs for entertainment purposes
+```
+AS A student
+I want to search gifs for entertainment purposes
+So that I can entertain others
 
-As an internet user
-I will spend time finding new gifs based on different search topics
+AS AN internet user
+I WANT TO spend time finding new gifs based on different search topics
+SO THAT I can have more options when interacting with others
 
-As a social media influencer
-I will search gifs for social media and messaging
+AS A social media influencer
+I WANT TO search gifs for social media purposes
+SO THAT I can interact with my audience
+```
