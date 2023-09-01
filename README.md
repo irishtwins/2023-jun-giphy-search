@@ -19,7 +19,7 @@ https://api.giphy.com/v1/gifs/search?api_key=${API_KEY}&q=${question}&limit=${nu
 ```
 AS A student
 I want to search gifs for entertainment purposes
-So that I can entertain others
+So THAT I can entertain others
 
 AS AN internet user
 I WANT TO spend time finding new gifs based on different search topics
