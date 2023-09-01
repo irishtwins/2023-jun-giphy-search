@@ -1,5 +1,7 @@
 # Giphy Search App
 
+Host URL: https://irishtwins.github.io/giphy-search/
+
 Searches 1 - 30 animated gifs based on a search expression.
 
 ## API documentation
